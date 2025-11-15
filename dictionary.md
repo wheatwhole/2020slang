@@ -133,6 +133,7 @@ no entries
 * shkspr — 'Shakespeare'
 * smh — 'shaking my head'
 * srs — 'serious'
+* son/daughter/nephew etc — replacement for 'bro' in joking context
   * srsly — 'seriously'
 * sthu/stfu — 'shut the hell/fuck up' 
   * stym — 'shut your mouth'
